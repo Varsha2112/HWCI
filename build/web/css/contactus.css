@@ -1,0 +1,261 @@
+*{
+   margin: 0%;
+    padding: 0%;
+}
+body{
+    /*background-image: url(../green.jpg);*/
+    /*background-size: cover;*/
+    background-color:#e3f6f3;
+}
+header
+{
+   height: 85px;
+   width: 100%;
+   /*background-color:pink;*/
+   background-color: aliceblue;
+        border-bottom: 5px solid orange;
+
+}
+#logo1{
+    margin: .5%;
+    height: 70px;
+    width: 174px;
+    float: left;
+}
+#log{
+    height: 100%;
+    width: 42%;
+    /*background-color: red;*/
+    float: left;
+    margin-left: 17%;
+}
+#logo2{
+    float: right;
+    height: 80px;
+    width: 14%;
+}
+h1{
+    width: 100%;
+    margin-left: 10%;
+     color:green; 
+     font-family:arial;
+}
+h3{
+    width: 100%;
+    margin-left: 2%;
+    background:orange;
+    color:white;
+    display: inline;
+    font-size: 18px;
+}
+
+#head{
+    height: 30px;
+    width: 100%;
+    /*margin: auto;*/
+    background-color: white;
+    border-bottom: 5px solid green;
+    /*margin-top: 10px;*/
+}
+#head1{
+    height: 100%;
+    width: 35%;
+    /*background-color: white;*/
+    float: right;
+}
+ul li{
+    list-style: none;
+    float: left;
+    margin-left: 10px;
+    height: 30px;
+    line-height: 30px;
+    /*background-color: aqua;*/
+    width: 17%;
+    text-align: center;
+}
+ul a li:hover{
+    /*background-color: aqua;*/
+    /*border-left: 2px solid silver;*/
+    color: white;
+    width: 17%;
+    height: 100%;
+    background-color: green;
+    
+    
+}
+#main{
+    height: 900px;
+    width:89%;
+    margin: auto;
+    background-color: white;
+    border-bottom: 10px solid #e3f6f3;
+    margin-top: 10px;
+    
+}
+#img1{
+    width: 98%;
+    height: 200px;
+    margin: 10px 10px 10px 10px;
+    float: left;
+}
+h2{
+    font-family: Arial;
+    font-size: 28px;
+    text-align: center;
+    
+}
+#right{
+    height: 300px;
+    width: 45%;
+    /*background-color: orange;*/
+    float: left;
+    /*border: 2px solid orange;*/
+}
+.sp{
+    font-family: Comic Sans MS;
+     color: green;
+}
+input{
+    padding:5px 5px 5px 7px;
+    border-radius:5px;
+    border: 1px solid white;
+    margin: 2% 0% 3% 0%;
+    width: 320px;
+    color :#6e7170;
+    font-family: Book Antiqua;
+    box-shadow: rgba(0,0,0,0.2)2px 3px 5px;
+   border: none;
+}
+input:hover{
+border:1px solid teal;
+}
+textarea
+{
+   padding: 10px;
+    border-radius:5px;
+   border: none;
+    margin: 2% 0% 3% 0%;
+    color :#6e7170;
+    font-family: Book Antiqua;
+    box-shadow: rgba(0,0,0,0.2)2px 3px 5px;
+}
+textarea:hover{
+   border: 1px solid brown;
+}
+button{
+    width:200px;
+    height: 30px;
+    border-radius:5px;
+    border: 1px solid white;
+    color :#6e7170;
+    font-family: Book Antiqua;
+    box-shadow: rgba(0,0,0,0.2)2px 3px 5px;
+}
+button:hover{
+    background-color: #2eaff5;
+    color: white;
+}
+h4{
+    /*padding: 10px;*/
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-family: Tahoma;
+}
+p{
+    font-family: Arial;
+    
+}
+
+     #left{
+    height: 300px;
+    width: 40%;
+    /*border:2px solid orange;*/
+    float: left;
+    padding: 2%;
+    /*border: 2px solid orange;*/
+}
+#right{
+    height: 570px;
+    width: 44%;
+    /*background-color: pink;*/
+    float: left;
+    padding:  3% 0% 0% 2%;
+    /*border: 2px solid orange;*/
+}
+span{
+    color:green;
+    
+}
+footer{
+    
+    height: 160px;
+    width: 85%;
+    margin: auto;
+    background-image: url(../img/footer.png);
+
+    background-size:initial;
+    padding: 2%;
+}
+#fot1{
+        height: 95%;
+        width: 30%;
+        /*background-color: pink;*/
+        /*border: 2px solid;*/
+        float: left;
+    }
+     ol li{
+        list-style: none;
+       color:  white;
+        font-size: 18px;
+        margin-bottom: 10px;
+        font-family:arial;
+    }
+    a {
+        text-decoration: none;
+    }
+    h5{
+        font-family: arial;
+        color:white;
+        font-size:  22px;
+        margin-bottom: 15px;
+    }
+    h6{
+        font-family: tahoma;
+        font-size: 20px;
+        /*text-align: center;*/
+        color: white;
+        float: left;
+        margin-bottom: 5px;
+    }
+     #pet1{
+        font-size: 18px;
+        color: white;
+        float: left;
+    }
+    
+    #fot2{
+        height: 85%;
+        width: 55%;
+        padding: 1%;
+        float: left;
+        margin-left: 13%;
+     /*background-color: red;*/
+    }
+    #img4{
+        margin-top: -4%;
+        margin-left: 2%;
+        height: 60%;
+        float: left;
+    }
+#sub_fut{
+    height: 10px;
+    width: 87%;
+    margin: auto;
+    background-color: yellow;
+    padding: 1%;
+}
+  #ped{
+        color:green;
+        font-size: 18px;
+        font-family: Tahoma;
+    }
